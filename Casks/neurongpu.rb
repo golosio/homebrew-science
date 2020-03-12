@@ -1,6 +1,6 @@
 cask 'neurongpu' do
   version '1.0.8'
-  sha256 '00892366728978b3dd3ba7f5fd38e3e304bf5459a67daeec536bd572d8c7ed87'
+  sha256 'e46645d0a5e106987795661b37b98f252c60ee62e97d06ea90f34d06db60008b'
 
   url "https://github.com/golosio/NeuronGPU/releases/download/macOS-v1.0.8/NeuronGPU-macOS-1.0.8.tgz"
   name 'Neurongpu'
